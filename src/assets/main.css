@@ -28,6 +28,8 @@ header {
 header span {
   border: 1px solid gray;
   border-radius: 30px;
+  border-color: orangered;
+  color: orangered;
   padding: 5px 10px;
 }
 
